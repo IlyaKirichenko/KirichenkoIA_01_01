@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KirichenkoIA_01_01</string>
+    <string name="app_zag">Конвертер единиц информации</string>
+    <string name="next">Начать</string>
+    <string name="input_num">Введите число</string>
+    <string name="bite">Байт</string>
+    <string name="kilobite">Килобайт</string>
+    <string name="result">Результат</string>
+    <string name="complete">Вычеслить</string>
+</resources>
